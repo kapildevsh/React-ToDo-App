@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background:white;
 }
 
 .App-logo {
@@ -27,7 +28,12 @@
 .App-link {
   color: #61dafb;
 }
-
+.Scheduled {
+  background-color: rgb(248, 112, 88);
+}
+.Completed {
+  background-color: rgb(139, 235, 139);
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
