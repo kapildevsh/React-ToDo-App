@@ -1,10 +1,12 @@
-# Getting Started with Create React App
+# To Do App in React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Preview
 
-In the project directory, you can run:
+![todo11](https://user-images.githubusercontent.com/19302663/135855049-eb69c6a1-ce14-4fdd-9ac5-4e5e5531066f.jpg)
+![todo33](https://user-images.githubusercontent.com/19302663/135855103-3b7869b5-2cad-4b32-ab12-2b1beea1e359.jpg)
+
 
 ### `npm start`
 
